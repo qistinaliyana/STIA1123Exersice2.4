@@ -27,7 +27,7 @@ public class Main {
 			
 			    Ball S = new Ball();
 				
-			    S.setBrand("Mizuno ISF 150");
+			        S.setBrand("Mizuno ISF 150");
 				S.setColor("Yellow");
 				S.setsportType("Soft ball");
 				S.setMaterial("Synthetic Leather");
